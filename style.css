@@ -1,0 +1,19 @@
+.travel_mauinDiv 
+{
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+.travel_mauinDiv img
+{
+    width: 100%;
+}
+.travel_mauinDiv hr
+{
+    width: 230px;
+}
+.travel_mauinDiv h5, .travel_mauinDiv p
+{
+    margin-left: 20px;
+}
